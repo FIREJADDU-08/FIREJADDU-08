@@ -1,105 +1,201 @@
-# Hi, I'm Kirubakaran H
+<div align="center">
 
-**Frontend Developer | React.js | React Native | Responsive Design | API Integration**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:1F5FBF&height=190&section=header&text=Kirubakaran%20H&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20React%20Native&descSize=18&descAlignY=58" alt="Kirubakaran H - Frontend Developer" />
 
-Frontend Developer at Brightech Software Services Pvt Ltd, building production web and mobile applications with React.js and React Native. I am currently extending my skills into full stack development with the MERN stack.
+<a href="https://github.com/FIREJADDU-08">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1200&color=1F5FBF&center=true&vCenter=true&width=640&lines=Frontend+Developer+%7C+React.js+%26+React+Native;Building+Production+Web+and+Mobile+Apps;Expanding+into+Full+Stack+with+the+MERN+Stack" alt="Typing SVG" />
+</a>
 
-📍 Chennai, Tamil Nadu, India
+<br/>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F5FBF?style=for-the-badge&logo=vercel&logoColor=white)](https://hkirubakarandeveloper08.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirubakarandeveloper08/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kirubajadu08@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/FIREJADDU-08?label=Followers&style=for-the-badge&logo=github&color=1F3864)](https://github.com/FIREJADDU-08?tab=followers)
 
-## About
-
-- Frontend Developer since February 2025, after completing three months of training at Brightech Software Services Pvt Ltd.
-- Experience building responsive interfaces, reusable UI components, and integrating REST APIs.
-- Shipped a mobile application to the App Store and Google Play as part of a professional team.
-- Currently building **AgriTrack**, a personal MERN stack project.
-- B.Tech in Information Technology, Adhiparasakthi College of Engineering (CGPA: 8.2/10).
-- Looking for Frontend and Junior Full Stack Developer opportunities.
+</div>
 
 ---
 
-## Experience
+## 👨‍💻 About Me
 
-**Frontend Developer** — Brightech Software Services Pvt Ltd, Chennai
-*February 2025 – Present*
+I'm a **Frontend Developer** at **Brightech Software Services Pvt Ltd**, Chennai, building production web and mobile applications with **React.js** and **React Native**. I focus on responsive interfaces, reusable UI components, and reliable REST API integration, and I'm now expanding into full stack development with the **MERN stack**.
 
-- Work on production-level web and mobile applications using React.js and React Native.
-- Develop responsive interfaces and reusable UI components.
-- Integrate REST APIs into web and mobile applications.
-- Collaborate with backend developers and team members to implement features and resolve issues.
-- Support application builds, testing, and release processes.
-
-**Web Developer Intern** — RETECH Solutions Pvt Ltd, Chennai
-*July 2024 – August 2024*
-
----
-
-## Tech Stack
-
-| Area | Technologies |
+| | |
 |---|---|
-| Frontend | React.js, Next.js, React Native, JavaScript, TypeScript, HTML5, CSS3 |
-| UI & Styling | Chakra UI, Material UI, Tailwind CSS, Responsive Web Design |
-| API & Mobile | REST APIs, Axios, Expo, Firebase |
-| Backend (learning) | Node.js, Express.js, MongoDB, JWT |
-| Tools | Git, GitHub, VS Code, Postman, Android Studio |
+| 🏢 **Current role** | Frontend Developer at Brightech Software Services Pvt Ltd (Feb 2025 – Present) |
+| 🎓 **Education** | B.Tech – Information Technology, Adhiparasakthi College of Engineering (CGPA: 8.2/10) |
+| 📍 **Location** | Kundrathur, Chennai, Tamil Nadu, India |
+| 📱 **Shipped** | Mobile app live on the App Store and Google Play |
+| 🌱 **Currently building** | AgriTrack, a personal MERN stack project |
+| 🎯 **Looking for** | Frontend / Junior Full Stack Developer opportunities |
 
 ---
 
-## Featured Projects
+## 🧑‍💼 Experience
 
-### BMG Digi Scheme — Mobile Application
-Scheme-based mobile application, live on the App Store and Google Play.
+<table>
+<tr>
+<td width="50" align="center">🏢</td>
+<td>
+<strong>Frontend Developer</strong> — Brightech Software Services Pvt Ltd<br/>
+<em>February 2025 – Present · Chennai, Tamil Nadu</em>
+<ul>
+<li>Work on production-level web and mobile applications using React.js and React Native.</li>
+<li>Develop responsive interfaces and reusable UI components.</li>
+<li>Integrate REST APIs into web and mobile applications.</li>
+<li>Collaborate with backend developers and team members to implement features and resolve issues.</li>
+<li>Support application builds, testing, and release processes.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center">🖥️</td>
+<td>
+<strong>Web Developer Intern</strong> — RETECH Solutions Pvt Ltd<br/>
+<em>July 2024 – August 2024 · Chennai, Tamil Nadu</em>
+</td>
+</tr>
+</table>
 
-- **Stack:** React Native, Expo, REST APIs
-- **Role:** Frontend Developer (Brightech Software Services Pvt Ltd)
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**UI & Styling**
+
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**API & Mobile**
+
+![REST API](https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Backend (learning)**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 📱 BMG Digi Scheme — Mobile Application
+
+> Scheme-based mobile application, live on the App Store and Google Play.
+
+| | |
+|---|---|
+| **Role** | Frontend Developer, Brightech Software Services Pvt Ltd |
+| **Stack** | React Native, Expo, REST APIs |
+
 - Built frontend screens, reusable components, and navigation flows.
 - Integrated REST APIs and payment gateway.
 - Implemented notification-related features.
-- Supported application builds and releases.
+- Supported application builds and release processes.
 
-[App Store](https://apps.apple.com/us/app/bmg-digi-scheme/id6755905380) · [Google Play](https://play.google.com/store/apps/details?id=com.bmg.bmgscheme)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/bmg-digi-scheme/id6755905380)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.bmg.bmgscheme)
 
-### RTM POS — Billing & Inventory Management
-Business application for billing and inventory management.
+---
 
-- **Stack:** Next.js, React, API Integration
+### 🧾 RTM POS — Billing & Inventory Management
+
+> Business application for billing and inventory management.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![API Integration](https://img.shields.io/badge/API_Integration-FF6B35?style=flat-square)
+
 - Contributed to billing, inventory, and dashboard interfaces.
 - Integrated backend APIs.
 
-### AgriTrack — Farm & Employee Management *(personal project, in progress)*
-Full stack platform for managing farms, employees, and daily operations.
+---
 
-- **Stack:** React.js, Node.js, Express.js, MongoDB, Chakra UI
-- **Planned features:** farmer and employee management, attendance tracking, daily work logs, notifications, reports, dashboard, authentication, admin panel.
+### 🌾 AgriTrack — Farm & Employee Management *(personal project, in progress)*
 
-### Other Professional Projects
+> Full stack platform for managing farms, employees, and daily operations.
+
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
+
+**Planned features:** `Farmer Management` `Employee Management` `Attendance Tracking` `Daily Work Logs` `Notifications` `Reports & Analytics` `Dashboard` `Authentication` `Admin Panel`
+
+---
+
+### 🏪 Other Professional Projects
 
 | Project | Contribution |
 |---|---|
-| Departmental Store App | Product management UI, billing, and customer modules |
-| Retail Estimation App | Estimation workflow, invoice screens, and dynamic forms |
-| Customer Tracking & Marketing App | Dashboard UI, marketing workflow, and reusable components |
+| 🛒 Departmental Store App | Product management UI, billing, and customer modules |
+| 📋 Retail Estimation App | Estimation workflow, invoice screens, and dynamic forms |
+| 📣 Customer Tracking & Marketing App | Dashboard UI, marketing workflow, and reusable components |
 
-### Personal Portfolio
-Responsive portfolio website built with Next.js and Tailwind CSS.
-[hkirubakarandeveloper08.vercel.app](https://hkirubakarandeveloper08.vercel.app/)
+### 🌐 Personal Portfolio
 
----
-
-## Currently Learning
-
-- Node.js and Express.js
-- MongoDB and Mongoose
-- JWT authentication
-- TypeScript (advanced concepts)
-- Cloud deployment
+Responsive portfolio website built with **Next.js** and **Tailwind CSS**.
+👉 [hkirubakarandeveloper08.vercel.app](https://hkirubakarandeveloper08.vercel.app/)
 
 ---
 
-## Contact
+## 📊 GitHub Stats
 
-- **Email:** [Kirubajadu08@gmail.com](mailto:Kirubajadu08@gmail.com)
-- **LinkedIn:** [linkedin.com/in/kirubakarandeveloper08](https://www.linkedin.com/in/kirubakarandeveloper08/)
-- **Portfolio:** [hkirubakarandeveloper08.vercel.app](https://hkirubakarandeveloper08.vercel.app/)
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=FIREJADDU-08&show_icons=true&hide_border=true&title_color=1F5FBF&icon_color=1F5FBF&theme=default" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FIREJADDU-08&layout=compact&hide_border=true&title_color=1F5FBF&theme=default" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+![Node.js](https://img.shields.io/badge/Node.js_&_Express-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB_&_Mongoose-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript_(Advanced)-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud_Deployment-1F5FBF?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm open to **Frontend** and **Junior Full Stack Developer** opportunities.
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kirubajadu08@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirubakarandeveloper08/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F5FBF?style=for-the-badge&logo=vercel&logoColor=white)](https://hkirubakarandeveloper08.vercel.app/)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F5FBF,100:1F3864&height=100&section=footer" alt="" />
+
+</div>
