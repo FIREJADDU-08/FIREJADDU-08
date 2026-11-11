@@ -27,7 +27,8 @@ I'm a **Frontend Developer** at **Brightech Software Services Pvt Ltd**, Chennai
 | 🎓 **Education** | B.Tech – Information Technology, Adhiparasakthi College of Engineering (CGPA: 8.2/10) |
 | 📍 **Location** | Kundrathur, Chennai, Tamil Nadu, India |
 | 📱 **Shipped** | Mobile app live on the App Store and Google Play |
-| 🌱 **Currently building** | AgriTrack, a personal MERN stack project |
+| 🌐 **Portfolio** | [hkirubakarandeveloper08.vercel.app](https://hkirubakarandeveloper08.vercel.app/) |
+| 🌱 **In development** | AgriTrack, a personal MERN stack project (work in progress) |
 | 🎯 **Looking for** | Frontend / Junior Full Stack Developer opportunities |
 
 ---
@@ -136,20 +137,6 @@ I'm a **Frontend Developer** at **Brightech Software Services Pvt Ltd**, Chennai
 
 ---
 
-### 🌾 AgriTrack — Farm & Employee Management *(personal project, in progress)*
-
-> Full stack platform for managing farms, employees, and daily operations.
-
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
-
-**Planned features:** `Farmer Management` `Employee Management` `Attendance Tracking` `Daily Work Logs` `Notifications` `Reports & Analytics` `Dashboard` `Authentication` `Admin Panel`
-
----
-
 ### 🏪 Other Professional Projects
 
 | Project | Contribution |
@@ -158,12 +145,42 @@ I'm a **Frontend Developer** at **Brightech Software Services Pvt Ltd**, Chennai
 | 📋 Retail Estimation App | Estimation workflow, invoice screens, and dynamic forms |
 | 📣 Customer Tracking & Marketing App | Dashboard UI, marketing workflow, and reusable components |
 
-### 🌐 Personal Portfolio
+---
 
-Responsive portfolio website built with **Next.js** and **Tailwind CSS**.
-👉 [hkirubakarandeveloper08.vercel.app](https://hkirubakarandeveloper08.vercel.app/)
+## 💼 Personal Projects
+
+### 🌐 Developer Portfolio
+
+> Responsive personal portfolio website showcasing my technical skills, projects, and professional information.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Deployed_on_Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+- Built with a responsive, mobile-friendly layout.
+- Presents my skills, projects, and professional background in one place.
+
+[![Live Site](https://img.shields.io/badge/Live_Site-1F5FBF?style=for-the-badge&logo=vercel&logoColor=white)](https://hkirubakarandeveloper08.vercel.app/)
 
 ---
+
+### 🚧 In Development
+
+<table>
+<tr>
+<td width="50" align="center">🌾</td>
+<td>
+<strong>AgriTrack — Farm & Employee Management</strong> <em>(work in progress, roughly half complete)</em><br/>
+Full stack MERN platform for managing farms, employees, and daily operations. I'm building it to strengthen my backend skills, so it is not yet production-ready.<br/><br/>
+<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white" alt="Chakra UI" /><br/><br/>
+<strong>Planned features:</strong> Farmer Management · Employee Management · Attendance Tracking · Daily Work Logs · Notifications · Reports & Analytics · Dashboard · Authentication · Admin Panel
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Stats
 
